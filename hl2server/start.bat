@@ -1,0 +1,1 @@
+start tf2\srcds.exe -console -replay -game tf +sv_pure 1 +map cp_snakewater_final1 +maxplayers 24
